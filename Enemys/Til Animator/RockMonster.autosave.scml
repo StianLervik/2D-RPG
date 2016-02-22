@@ -747,13 +747,13 @@
             </timeline>
             <timeline id="14" obj="14" name="BackLowerLeg" object_type="bone">
                 <key id="0">
-                    <bone x="12.962963" y="0" angle="358.363423"/>
+                    <bone x="12.962963" angle="358.363423"/>
                 </key>
                 <key id="1" time="333" spin="-1">
-                    <bone x="12.962963" y="0" angle="10.701349"/>
+                    <bone x="12.962963" angle="10.701349"/>
                 </key>
                 <key id="2" time="500" spin="0">
-                    <bone x="12.962963" y="0" angle="358.363423"/>
+                    <bone x="12.962963" angle="358.363423"/>
                 </key>
             </timeline>
             <timeline id="15" obj="15" name="FrontArm" object_type="bone">
